@@ -20,13 +20,8 @@ public class POO01 {
         // TODO code application logic here
         Scanner sc = new Scanner(System.in);
         Libro l1 = new Libro();
-        //control apretar la clase te lleva a ese archivo
-        //control shift c comentario
-
-        
-        //mmmm me falla por alguna razon del mostrar libro asi que las inicializo aca 
-       //me falla si pongo esto tambien dio
-       //no eran necesarias we
+      
+       //no eran necesarias
 //        String isbn = "0";
 //        String titulo = "aaa";
 //        String autor = "aaa";
@@ -45,8 +40,8 @@ public class POO01 {
 
      
        l1.MostrarLibro(l1.isbn, l1.titulo, l1.autor, l1.pagina);
-      // maldita sea  obvio no iba a funcionar Libro.MostrarLibro(isbn, titulo, autor, paginas);
-// LAS VARIABLES TAMBIEN TIENEN QUE SER  l1 SINO NO LAS RECONOCE POR DIOOOOOOOOS CON RAZON QUE GANAS DE MORIR  
+     
+
     }
 
 }
