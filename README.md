@@ -1,5 +1,5 @@
 # JAVA
-
+Algunos de los ejercicios realizados en el curso de Fullstack Java. <br><br>
 ● Introducción. Hola mundo. Tipo de datos. Variables. Tipos de operadores. <br>
 ● Estructuras control. Condicionales. Repetitivas.<br>
 ● Tipo de datos compuestos. Listas. <br>
